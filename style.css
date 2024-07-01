@@ -1,0 +1,30 @@
+#i1{
+    text-align: left;
+    color: crimson;
+    text-decoration: underline;
+    background-color: aquamarine;
+}
+
+#i2{
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    background-color: aquamarine;
+}
+
+#i3{
+    text-decoration: none;
+    color: blueviolet;
+    background-color: aquamarine;
+
+}
+
+.list1{
+    background-color: aqua;
+}
+
+.gp1{
+    border: 1px solid red;
+    margin:5% 10% 5% 10%;
+    padding: 10px 30px 10px 40px;
+}
